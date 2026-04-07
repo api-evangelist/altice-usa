@@ -1,7 +1,12 @@
 aid: altice-usa
-url: https://raw.githubusercontent.com/api-evangelist/altice-usa/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/altice-usa/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.altice-usa.com
+description: >-
+  Altice USA is a broadband communications and video services provider delivering
+  broadband, pay television, telephony, proprietary content, and advertising services
+  to residential and business customers.
