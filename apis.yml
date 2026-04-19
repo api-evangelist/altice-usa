@@ -1,12 +1,72 @@
 aid: altice-usa
-url: 
-  https://raw.githubusercontent.com/api-evangelist/altice-usa/refs/heads/main/apis.yml
-modified: '2026-03-21'
-apis: []
-common:
-  - type: Website
-    url: https://www.altice-usa.com
+url: https://raw.githubusercontent.com/api-evangelist/altice-usa/refs/heads/main/apis.yml
+name: Altice USA
+tags:
+  - Telecommunications
+  - Broadband
+  - Cable
+  - Advertising
+  - Video Services
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 description: >-
   Altice USA is a broadband communications and video services provider delivering
   broadband, pay television, telephony, proprietary content, and advertising services
-  to residential and business customers.
+  to residential and business customers. Through its Optimum and Suddenlink brands,
+  Altice provides enterprise connectivity and advertising technology platforms.
+created: '2024-01-01'
+modified: '2026-04-19'
+specificationVersion: '0.19'
+apis: []
+common:
+  - url: https://www.alticeusa.com/
+    type: Website
+  - url: https://business.optimum.net/
+    type: Documentation
+  - url: https://www.alticeusa.com/contact-us
+    type: Support
+  - type: Features
+    data:
+      - name: Business Broadband Connectivity
+        description: >-
+          Enterprise broadband, dedicated fiber, and SD-WAN connectivity services
+          for business customers with SLA-backed uptime guarantees.
+      - name: Altice Advertising Platform
+        description: >-
+          Targeted advertising across cable TV, digital, and streaming properties
+          with data-driven audience segmentation and campaign measurement.
+      - name: Optimum Business API
+        description: >-
+          Business account management APIs for enterprise customers to manage
+          services, monitor network performance, and access billing data.
+      - name: IoT and Edge Connectivity
+        description: >-
+          IoT connectivity services for smart buildings, retail, and industrial
+          applications over Altice's broadband network infrastructure.
+  - type: UseCases
+    data:
+      - name: Enterprise Network Management
+        description: >-
+          Business customers managing multi-location network connectivity,
+          bandwidth monitoring, and service configuration via API.
+      - name: Advertising Campaign Management
+        description: >-
+          Advertising agencies and brands accessing Altice's ad platform for
+          targeted TV and digital advertising campaign management.
+      - name: Residential Service Integration
+        description: >-
+          Smart home and IoT device integration over Altice's broadband network
+          for residential customers.
+  - type: Integrations
+    data:
+      - name: Cisco SD-WAN
+        description: >-
+          SD-WAN integration for enterprise customers connecting branch locations
+          over Altice's managed network services.
+      - name: VMware
+        description: >-
+          VMware SD-WAN (VeloCloud) integration for cloud-delivered WAN
+          services on Altice business broadband.
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com

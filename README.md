@@ -1,33 +1,26 @@
 # Altice USA (altice-usa)
-Altice USA is a Fortune 500 company. This repository captures the APIs, developer tools, and machine-readable API artifacts for Altice USA.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/altice-usa/refs/heads/main/apis.yml)
+Altice USA is a broadband communications and video services provider delivering broadband, pay television, telephony, proprietary content, and advertising services to residential and business customers. Through its Optimum and Suddenlink brands, Altice provides enterprise connectivity and advertising technology platforms.
 
-## Scope
+**Website:** [https://www.alticeusa.com/](https://www.alticeusa.com/)
+**Business:** [https://business.optimum.net/](https://business.optimum.net/)
 
-- **Type:** Contract
-- **Position:** Consuming
-- **Access:** 3rd-Party
+## Status
 
-## Tags:
+Altice USA does not offer a public developer API portal. This repository tracks known integration capabilities for enterprise customers and advertising partners.
 
- - Fortune 500
+## Capabilities
 
-## Timestamps
+- **Business Broadband Connectivity** — Enterprise broadband, dedicated fiber, and SD-WAN with SLA-backed uptime
+- **Altice Advertising Platform** — Targeted TV and digital advertising with data-driven audience segmentation
+- **Optimum Business API** — Enterprise account management, network monitoring, and billing APIs
+- **IoT and Edge Connectivity** — IoT connectivity for smart buildings and industrial applications
 
-- **Created:** 2026-03-21
-- **Modified:** 2026-03-21
+## Integrations
 
-## APIs
+- Cisco SD-WAN — Enterprise branch connectivity
+- VMware SD-WAN — Cloud-delivered WAN services
 
-No public APIs have been documented yet. Contributions welcome.
+## Maintainer
 
-## Common Properties
-
-- [Website](https://www.altice-usa.com)
-
-## Maintainers
-
-**FN:** API Evangelist
-
-**Email:** info@apievangelist.com
+Kin Lane — kin@apievangelist.com
