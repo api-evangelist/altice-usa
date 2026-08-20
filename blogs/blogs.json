@@ -1,0 +1,14 @@
+{
+  "repo": "altice-usa",
+  "feeds": [
+    {
+      "source": "https://www.optimum.com/about-us/news",
+      "feed_url": "https://www.optimum.com/about-us/news",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "fetched": "2026-08-15T12:22:01Z",
+  "post_count": 12
+}
